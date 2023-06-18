@@ -8,7 +8,10 @@ It uses `flask`, `flask-cors` and `RPI.GPIO`.
 
 ## Installation
 
-Install Dependancies:
+### Install Dependancies
+
 `pip install -r requirements.txt`
 
-Run the app: `flask run`
+### Run the app
+
+`flask run`
